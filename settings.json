@@ -6,10 +6,11 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "____youssef____.aternos.me"
+",
+    "port": 38795,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -20,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "youssef"
     },
     "anti-afk": {
       "enabled": true,
